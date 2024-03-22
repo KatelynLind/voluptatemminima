@@ -1,0 +1,33 @@
+{
+  "name": "voluptatemminima",
+  "description": "Request tiles from WMS servers that support EPSG:3857",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.mjs",
+  "license": "ISC",
+  "author": "RosemarieHowell",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KatelynLind/voluptatemminima.git"
+  },
+  "keywords": [
+    "WMS",
+    "tiles",
+    "maiores"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "coveralls": "^3.0.0",
+    "documentation": "4.0.0-beta5",
+    "eslint": "^5.0.0",
+    "rollup": "0.60.0",
+    "tap": "^12.0.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/KatelynLind/voluptatemminima.git/issues"
+  },
+  "homepage": "https://github.com/KatelynLind/voluptatemminima.git"
+}
